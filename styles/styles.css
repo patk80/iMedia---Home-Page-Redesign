@@ -6,6 +6,8 @@ header {
   background-image: url("/assets/img/aerial-city-view-hero-image.jpg");
   background-size: cover;
   opacity: 0.6;
+  -webkit-box-shadow: #26394d 0px 20px 30px -10px;
+          box-shadow: #26394d 0px 20px 30px -10px;
 }
 
 #imedia-hero-text {
